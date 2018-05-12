@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40983#Thoughts-on-the-Christian-Religion-by-a-Deist
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
